@@ -11,9 +11,11 @@ Open project in VS Code. File -> Open Folder -> Budget App
 
 Open Terminal, Terminal -> New Terminal.
 
-Type "npm install" into the terminal.
+Type `npm install` into the terminal.
 
-type "ng serve" into the terminal.
+Type `npm install -g @angular/cli` into the terminal.
+
+type `ng serve` into the terminal. If you get an security error, type `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser`
 
 Navigate to `http://localhost:4200/`.
 
