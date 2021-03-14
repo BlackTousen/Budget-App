@@ -3,7 +3,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
 
-Download Git. https://windows.github.com <-- Link is for Windows.
+Download/Install Node.js. https://nodejs.org/en/download/
 
 Download VS Code. https://code.visualstudio.com/download
 
