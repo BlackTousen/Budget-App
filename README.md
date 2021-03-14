@@ -3,7 +3,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.
 
-Download VS Code.
+Download VS Code. https://code.visualstudio.com/download
 Open project in VS Code. File -> Open Folder -> Budget App
 Open Terminal, Terminal -> New Terminal.
 Type "npm install" into the terminal.
