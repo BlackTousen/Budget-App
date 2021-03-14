@@ -17,7 +17,7 @@ Type `npm install -g @angular/cli` into the terminal.
 
 type `ng serve` into the terminal. If you get an security error, type `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser`
 
-Navigate to `http://localhost:4200/`.
+Navigate to `http://localhost:4200/` in your browser of choice(App was designed for Chrome).
 
 Fiddle around, it's a budgeting app! :)
 
